@@ -1,0 +1,10 @@
+name: macEdge
+on: [push]
+jobs:
+  chrome-on-macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: cypress-io/github-action@v2
+        with:
+          browser: edge
