@@ -1,6 +1,9 @@
 # vue_crud_todo_20
 https://warm-escarpment-23584.herokuapp.com/
 
+![HomePage](src/assets/App1.png)
+![TodoApp](src/assets/App2.png)
+![Archetecture](src/assets/archvuexmongoexpress.png)
 
 ## Project setup
 ```
