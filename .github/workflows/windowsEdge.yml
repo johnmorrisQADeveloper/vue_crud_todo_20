@@ -1,4 +1,4 @@
-name: windowEdge
+name: windowsEdge
 on: push
 jobs:
   tests:
